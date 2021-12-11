@@ -1,0 +1,2 @@
+# NFS portable(save)
+What to wear a preservation of the game with you. Copy * .exe in the game folder. Save stored in folder **Save**. If there is saving in the documents reninkles it in **FolderName_Bak** 
