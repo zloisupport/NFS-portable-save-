@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFS portable(save)", "NFS portable(save)\NFS portable(save).csproj", "{56AB838E-3785-4A20-8E52-E957C03D3344}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test exe", "test exe\test exe.csproj", "{4817AC10-D11C-415A-8406-655E5EFE9336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56AB838E-3785-4A20-8E52-E957C03D3344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56AB838E-3785-4A20-8E52-E957C03D3344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56AB838E-3785-4A20-8E52-E957C03D3344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56AB838E-3785-4A20-8E52-E957C03D3344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4817AC10-D11C-415A-8406-655E5EFE9336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4817AC10-D11C-415A-8406-655E5EFE9336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4817AC10-D11C-415A-8406-655E5EFE9336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4817AC10-D11C-415A-8406-655E5EFE9336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEA25814-FF23-4874-8339-F9EB7E55B8E2}
+	EndGlobalSection
+EndGlobal
